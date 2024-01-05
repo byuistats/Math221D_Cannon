@@ -24,16 +24,10 @@ navbar:
           href: MakingInference.html
         - text: "t Tests"
           href: tTests.html
-        - text: "Wilcoxon Tests"
-          href: WilcoxonTests.html
-        - text: "Kruskal-Wallis Test"
-          href: Kruskal.html
         - text: "ANOVA"
           href: ANOVA.html
         - text: "Linear Regression"
           href: LinearRegression.html
-        - text: "Logistic Regression"
-          href: LogisticRegression.html
         - text: "Chi Squared Tests"
           href: ChiSquaredTests.html
         - text: "Randomization"
@@ -52,18 +46,10 @@ navbar:
           href: ./Analyses/Stephanie.html
         - text: "High School Seniors"
           href: ./Analyses/t Tests/HighSchoolSeniors.html
-        - text: "Recalling Words"
-          href: ./Analyses/Wilcoxon Tests/RecallingWords.html
-        - text: "My Two-way ANOVA"
-          href: ./Analyses/ANOVA/MyTwoWayANOVA.html
-        - text: "Food"
-          href: ./Analyses/Kruskal-Wallis Test/Food.html
         - text: "My Simple Linear Regression"
           href: ./Analyses/Linear Regression/MySimpleLinearRegression.html
         - text: "Car Prices"
           href: ./Analyses/Linear Regression/CarPrices.html
-        - text: "My Logistic Regression"
-          href: ./Analyses/Logistic Regression/MyLogisticRegression.html
         - text: "My Chi-sqaured Test"
           href: ./Analyses/Chi Squared Tests/MyChiSquaredTest.html
 
