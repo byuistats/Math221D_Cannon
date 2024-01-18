@@ -1,4 +1,4 @@
-Year,Section,Course Section,Name,BirthMonth,Sex(M/F),Height in Inches,In how Many Languages are you proficient?,Extroversion,Agreeableness,Openness,Conscientiousness,Neuroticism
+Year,Section,Course Section,Name,BirthMonth,Gender(M/F),Height in Inches,In how Many Languages are you proficient?,Extroversion,Agreeableness,Openness,Conscientiousness,Neuroticism
 Spring 2022,1,B,William Sherwood,March,M,76,1,88,63,54,81,19
 Spring 2022,1,B,Daniel Gourley,February,M,70,2,81,83,77,81,25
 Spring 2022,1,B,Tyler Brush,August,M,71,1,27,63,81,65,67
