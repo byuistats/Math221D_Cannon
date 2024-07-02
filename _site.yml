@@ -1,4 +1,4 @@
-name: "statistics-notebook"
+name: "Math221D"
 navbar:
   title: "Introductory Statsitics in R"
   left:
@@ -30,9 +30,7 @@ navbar:
           href: LinearRegression.html
         - text: "Chi Squared Tests"
           href: ChiSquaredTests.html
-        - text: "Randomization"
-          href: PermutationTests.html
-    - text: "TextbookA"
+    - text: "Analyses"
       menu:
         - text: "Analysis Rubric"
           href: ./Analyses/AnalysisRubric.html
