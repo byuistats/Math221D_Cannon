@@ -59,6 +59,7 @@ navbar:
         - text: "Intro to Probability"
           href: ./Textbook/Intro_to_Probability.html
     - text: "Assignments"
+      menu:
         - text: "Introducing R"
           href: ./Assignments/Introducting_R_Homework.html
 
