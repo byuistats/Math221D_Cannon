@@ -52,7 +52,12 @@ navbar:
           href: ./Analyses/Linear Regression/CarPrices.html
         - text: "My Chi-sqaured Test"
           href: ./Analyses/Chi Squared Tests/MyChiSquaredTest.html
-
+    - text: "Textbook"
+      menu:
+        - text: "Course Introduction"
+          href: ./Textbook/Course_Introduction.html
+        - text: "Intro to Probability"
+          href: ./Textbook/Intro_to_Probability.html
 
           
 output_dir: '.'
