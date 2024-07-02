@@ -59,7 +59,7 @@ navbar:
     - text: "Assignments"
       menu:
         - text: "Introducing R"
-          href: ./Assignments/Introducting_R_Homework.html
+          href: ./Assignments/Introducing_R_Homework.Rmd.html
 
           
 output_dir: '.'
