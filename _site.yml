@@ -1,6 +1,6 @@
 name: "statistics-notebook"
 navbar:
-  title: "Statistics Notebook"
+  title: "Introductory Statsitics in R"
   left:
     - text: "R Help"
       menu:
@@ -32,7 +32,7 @@ navbar:
           href: ChiSquaredTests.html
         - text: "Randomization"
           href: PermutationTests.html
-    - text: "Analyses"
+    - text: "TextbookA"
       menu:
         - text: "Analysis Rubric"
           href: ./Analyses/AnalysisRubric.html
