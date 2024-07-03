@@ -58,8 +58,8 @@ navbar:
           href: ./Textbook/Intro_to_Probability.html
     - text: "Assignments"
       menu:
-        - text: "Introducing R"
-          href: ./Assignments/Introducing_R_Homework.Rmd.html
+        - text: "Introducing R Homework"
+          href: ./Assignments/Introducing_R_Homework.html
 
           
 output_dir: '.'
