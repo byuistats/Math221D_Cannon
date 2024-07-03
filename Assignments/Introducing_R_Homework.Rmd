@@ -1,6 +1,6 @@
 ---
 title: 'Introducing R'
-subtitle: 'Summarizing Quantitative Data'
+subtitle: 'Summarizing Quantitative Data - blah blah blah'
 output:
   html_document:
     theme: cerulean
