@@ -1,6 +1,6 @@
 name: "Math221D"
 navbar:
-  title: "Introductory Statsitics in R - Math 221DDDDDDD"
+  title: "Introductory Statsitics in R - Math 221D"
   left:
     - text: "R Help"
       menu:
