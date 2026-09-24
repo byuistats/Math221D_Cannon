@@ -1,406 +1,178 @@
-Year,Semester,YearTaken,Course Section,BirthMonth,Sex(M/F),Height in Inches,In how Many Languages are you proficient?,Extroversion,Agreeableness,Openness,Conscientiousness,Neuroticism
-Spring 2022,SPR,2022,B,March,M,76,1,88,63,54,81,19
-Spring 2022,SPR,2022,B,February,M,70,2,81,83,77,81,25
-Spring 2022,SPR,2022,B,August,M,71,1,27,63,81,65,67
-Spring 2022,SPR,2022,B,March,F,70,1,92,67,73,83,27
-Spring 2022,SPR,2022,B,September,M,72,2,46,79,90,23,56
-Spring 2022,SPR,2022,B,May,F,67,1,79,75,52,71,31
-Spring 2022,SPR,2022,B,November,M,67,2,67,81,69,56,40
-Spring 2022,SPR,2022,B,November,M,69,2,44,56,63,31,29
-Spring 2022,SPR,2022,B,May,F,65,1,46,85,92,52,56
-Spring 2022,SPR,2022,B,July,M,75,2,88,63,58,92,31
-Spring 2022,SPR,2022,B,July,F,65,1,21,71,67,69,65
-Spring 2022,SPR,2022,B,January,M,70,1,60,44,83,21,46
-Spring 2022,SPR,2022,B,March,F,63,2,71,67,52,63,48
-Spring 2022,SPR,2022,B,November,F,68,1,81,90,92,80,40
-Spring 2022,SPR,2022,B,October,M,73,1,79,71,65,52,42
-Spring 2022,SPR,2022,B,April,F,66,2,52,60,85,85,44
-Spring 2022,SPR,2022,B,February,F,64,2,100,67,81,94,48
-Spring 2022,SPR,2022,B,December,M,66,1,44,67,60,42,65
-Spring 2022,SPR,2022,B,December,M,72,2,42,60,48,52,40
-Spring 2022,SPR,2022,B,February,M,72,1,58,79,56,56,71
-Spring 2022,SPR,2022,B,May,F,66,2,52,90,73,77,19
-Spring 2022,SPR,2022,B,June,F,62,1,48,79,79,48,67
-Spring 2022,SPR,2022,B,March,M,67,1,83,79,69,46,52
-Spring 2022,SPR,2022,B,November,M,76,1,65,71,73,48,29
-Spring 2022,SPR,2022,B,April,F,68,2,98,88,85,73,52
-Spring 2022,SPR,2022,B,December,M,68,1,85,85,54,71,38
-Spring 2022,SPR,2022,B,January,F,59,4,31,54,83,56,52
-Spring 2022,SPR,2022,B,May,M,70,1,40,58,58,31,40
-Spring 2022,SPR,2022,B,January,F,64,1,71,79,83,63,44
-Spring 2022,SPR,2022,B,April,M,73,2,48,73,46,71,23
-Spring 2022,SPR,2022,B,July,M,70,1,58,73,50,65,56
-Spring 2022,SPR,2022,B,January,M,73,2,44,88,67,35,33
-Spring 2022,SPR,2022,B,August,M,74,7,71,40,79,63,72
-Spring 2022,SPR,2022,B,August,F,62,1,15,94,77,71,69
-Spring 2022,SPR,2022,B,January,M,70,1,29,79,38,63,40
-Spring 2022,SPR,2022,B,July,F,63,2,21,94,73,56,48
-Spring 2022,SPR,2022,B,May,F,69,1,69,81,56,48,50
-Spring 2022,SPR,2022,B,July,M,68,1,35,65,63,35,60
-Spring 2022,SPR,2022,B,July,F,64,1,56,71,83,40,67
-Spring 2022,SPR,2022,B,May,M,67,2,42,63,56,48,58
-Spring 2022,SPR,2022,B,January,M,71,3,90,88,73,75,60
-Spring 2022,SPR,2022,B,April,M,71,1,90,88,73,79,40
-Spring 2022,SPR,2022,B,January,M,70,1,56,71,65,77,52
-Spring 2022,SPR,2022,C,January,F,67,1,41,65,71,62,48
-Spring 2022,SPR,2022,C,May,F,70,2,81,77,40,71,56
-Spring 2022,SPR,2022,C,November,F,63,2,38,85,50,77,52
-Spring 2022,SPR,2022,C,September,F,64,1,79,52,94,48,56
-Spring 2022,SPR,2022,C,May,F,66,1,88,88,77,50,54
-Spring 2022,SPR,2022,C,May,F,64,1,31,69,67,33,52
-Spring 2022,SPR,2022,C,March,F,65,1,58,83,73,44,69
-Spring 2022,SPR,2022,C,March,F,63,1,96,79,56,81,50
-Spring 2022,SPR,2022,C,August,M,71,2,42,77,83,69,0
-Spring 2022,SPR,2022,C,May,F,66,1,52,77,96,75,33
-Spring 2022,SPR,2022,C,August,M,75,1,48,67,88,81,35
-Spring 2022,SPR,2022,C,May,M,75,2,60,73,63,58,42
-Spring 2022,SPR,2022,C,March,M,74,1,44,81,79,44,35
-Spring 2022,SPR,2022,C,April,F,66,1,38,92,73,38,67
-Spring 2022,SPR,2022,C,May,M,72,1,25,75,71,67,25
-Spring 2022,SPR,2022,C,March,F,69,1,35,79,85,69,29
-Spring 2022,SPR,2022,C,August,F,64,1,40,71,79,27,58
-Spring 2022,SPR,2022,C,November,F,65,1,56,71,85,71,48
-Spring 2022,SPR,2022,C,February,M,67,1,83,69,58,67,38
-Spring 2022,SPR,2022,C,April,F,61,1,33,75,81,38,79
-Spring 2022,SPR,2022,C,June,M,71,2,58,60,73,65,35
-Spring 2022,SPR,2022,C,July,F,61,3,52,81,90,58,23
-Spring 2022,SPR,2022,C,June,F,61,1,63,63,33,69,54
-Spring 2022,SPR,2022,C,January,F,65,2,58,77,90,56,73
-Spring 2022,SPR,2022,C,July,F,67,2,58,75,79,71,63
-Spring 2022,SPR,2022,C,August,M,68,1,44,83,85,40,81
-Spring 2022,SPR,2022,C,October,M,74,1,77,75,100,60,58
-Spring 2022,SPR,2022,C,May,F,63,2,60,79,79,63,48
-Spring 2022,SPR,2022,C,August,M,72,1,81,71,67,29,58
-Spring 2022,SPR,2022,C,February,M,72,2,81,79,90,88,31
-Spring 2022,SPR,2022,C,January,F,64,2,77,90,87,42,60
-Spring 2022,SPR,2022,C,September,F,64,4,63,92,88,44,73
-Spring 2022,SPR,2022,C,June,M,72,1,44,75,92,71,31
-Fall 2022,FAL,2022,C,June,M,66,1,58,56,85,58,6
-Fall 2022,FAL,2022,C,April,F,74,1,73,21,10,2,13
-Fall 2022,FAL,2022,C,October,M,68,1,98,79,98,85,15
-Fall 2022,FAL,2022,C,February,M,72,1,94,88,81,58,15
-Fall 2022,FAL,2022,C,April,F,66,2,67,69,60,69,15
-Fall 2022,FAL,2022,C,April,F,62,1,73,85,46,25,17
-Fall 2022,FAL,2022,C,January,F,63,2,46,85,81,54,33
-Fall 2022,FAL,2022,C,August,M,74,2,69,83,48,58,38
-Fall 2022,FAL,2022,C,November,M,74,2,63,71,48,56,40
-Fall 2022,FAL,2022,C,February,M,64,1,81,90,94,50,42
-Fall 2022,FAL,2022,C,February,F,61,1,50,52,58,79,42
-Fall 2022,FAL,2022,C,September,F,65,2,48,73,65,67,42
-Fall 2022,FAL,2022,C,September,M,69,1,33,67,77,63,42
-Fall 2022,FAL,2022,C,April,F,63,1,54,71,63,44,42
-Fall 2022,FAL,2022,C,April,M,69,1,71,60,44,58,42
-Fall 2022,FAL,2022,C,December,M,72,1,67,79,75,54,42
-Fall 2022,FAL,2022,C,July,F,68,2,23,100,21,94,44
-Fall 2022,FAL,2022,C,January,F,68,1,60,63,69,65,44
-Fall 2022,FAL,2022,C,January,F,63,1,75,94,79,83,44
-Fall 2022,FAL,2022,C,June,F,63,2,88,90,65,88,46
-Fall 2022,FAL,2022,C,August,F,73,1,40,73,69,58,46
-Fall 2022,FAL,2022,C,March,F,66,1,58,71,83,40,46
-Fall 2022,FAL,2022,C,March,F,69,1,56,79,50,73,46
-Fall 2022,FAL,2022,C,June,F,66,1,54,71,56,69,46
-Fall 2022,FAL,2022,C,October,F,66,1,44,71,71,52,48
-Fall 2022,FAL,2022,C,March,F,62,1,56,94,77,90,48
-Fall 2022,FAL,2022,C,November,F,64,1,63,92,90,71,48
-Fall 2022,FAL,2022,C,April,F,62,1,73,85,73,73,50
-Fall 2022,FAL,2022,C,December,M,69,1,65,63,81,44,50
-Fall 2022,FAL,2022,C,January,F,64.4,2,50,90,83,50,52
-Fall 2022,FAL,2022,C,January,M,74,2,56,44,85,71,54
-Fall 2022,FAL,2022,C,February,F,59,3,79,73,75,44,56
-Fall 2022,FAL,2022,C,October,F,62,3,69,63,63,42,60
-Fall 2022,FAL,2022,C,January,F,64,1.5,48,67,77,50,63
-Fall 2022,FAL,2022,C,May,M,71,1,52,73,81,60,65
-Fall 2022,FAL,2022,C,May,F,64,1,23,75,73,58,65
-Fall 2022,FAL,2022,C,October,F,62,1,38,94,73,85,73
-Fall 2022,FAL,2022,C,August,F,64,1,52,65,79,50,75
-Fall 2022,FAL,2022,C,May,F,62,1,65,85,77,56,77
-Fall 2022,FAL,2022,C,December,M,68,1,31,46,69,81,81
-Fall 2022,FAL,2022,C,March,F,62,1,46,73,63,27,85
-Fall 2022,FAL,2022,C,December,F,66,1,29,77,50,58,90
-Fall 2022,FAL,2022,C,December,M,73,2,67,88,85,69,5
-Fall 2022,FAL,2022,C,April,M,69,2,35,54,50,65,27
-Fall 2022,FAL,2022,C,September,F,64,1,69,75,63,48,38
-Fall 2022,FAL,2022,C,August,F,66.75,1,67,88,79,65,42
-Fall 2022,FAL,2022,C,February,F,62,1,56,81,90,63,48
-Fall 2022,FAL,2022,C,June,F,61,2,56,98,81,73,50
-Fall 2022,FAL,2022,C,October,F,67,1,83,81,83,46,60
-Fall 2022,FAL,2022,C,April,F,67,1,90,90,71,88,63
-Fall 2022,FAL,2022,C,November,M,66,2,81,63,81,44,65
-Fall 2022,FAL,2022,C,February,F,67,1,29,77,85,52,81
-Fall 2022,FAL,2022,C,June,M,71,2,96,94,100,75,2
-Fall 2022,FAL,2022,C,December,M,71,1,77,39,53,28,6
-Fall 2022,FAL,2022,C,December,F,66,1,81,44,67,83,23
-Fall 2022,FAL,2022,C,April,M,69,2,50,81,31,69,25
-Fall 2022,FAL,2022,C,May,M,72,2,71,73,65,58,25
-Fall 2022,FAL,2022,C,April,F,66,1,81,79,75,56,27
-Fall 2022,FAL,2022,C,March,M,74,1,27,81,81,67,27
-Fall 2022,FAL,2022,C,November,F,63,1,85,90,85,77,29
-Fall 2022,FAL,2022,C,April,F,63,2,60,92,48,79,31
-Fall 2022,FAL,2022,C,July,F,68,1,73,77,92,40,35
-Fall 2022,FAL,2022,C,April,F,65,1,60,79,62,71,35
-Fall 2022,FAL,2022,C,December,F,69,1,29,100,65,77,38
-Fall 2022,FAL,2022,C,March,F,65,1,63,73,54,73,38
-Fall 2022,FAL,2022,C,June,F,70,2,92,85,85,44,40
-Fall 2022,FAL,2022,C,August,F,67,1,1,73,77,67,42
-Fall 2022,FAL,2022,C,May,M,58,3,71,71,58,46,42
-Fall 2022,FAL,2022,C,December,F,69,1,21,77,77,21,44
-Fall 2022,FAL,2022,C,March,F,71,1,46,83,77,44,44
-Fall 2022,FAL,2022,C,December,F,62,2,75,79,81,60,46
-Fall 2022,FAL,2022,C,February,M,61,1,48,46,79,65,48
-Fall 2022,FAL,2022,C,September,M,63,1,81,81,87,58,50
-Fall 2022,FAL,2022,C,December,F,69,2,27,79,81,48,52
-Fall 2022,FAL,2022,C,June,F,63,2,65,81,29,27,52
-Fall 2022,FAL,2022,C,May,F,69,1,17,67,94,69,52
-Fall 2022,FAL,2022,C,February,F,63,1,42,77,85,46,60
-Fall 2022,FAL,2022,C,March,F,67,1,27,40,81,50,60
-Fall 2022,FAL,2022,C,August,M,71,2,56,77,92,60,63
-Fall 2022,FAL,2022,C,January,F,63,1,50,83,81,77,63
-Fall 2022,FAL,2022,C,June,F,64,2,19,77,77,65,63
-Fall 2022,FAL,2022,C,August,M,74,1,96,75,79,54,69
-Fall 2022,FAL,2022,C,September,F,64,4,56,90,75,46,71
-Fall 2022,FAL,2022,C,December,F,64,1,29,56,73,73,71
-Fall 2022,FAL,2022,C,October,F,58,1,40,65,44,58,73
-Fall 2022,FAL,2022,C,September,M,59,1,50,58,81,48,77
-Fall 2022,FAL,2022,C,July,F,67,1,8,69,46,42,92
-Winter 2023,WIN,2023,B,May,F,67,1,90,67,98,67,52
-Winter 2023,WIN,2023,B,April,F,64,1,50,79,90,56,56
-Winter 2023,WIN,2023,B,February,M,72,1.5,54,65,54,67,42
-Winter 2023,WIN,2023,B,November,M,71,1,50,79,54,69,52
-Winter 2023,WIN,2023,B,June,F,65,1,63,79,83,83,23
-Winter 2023,WIN,2023,B,February,M,69,2,85,65,48,65,48
-Winter 2023,WIN,2023,B,February,M,66,1,63,85,73,63,27
-Winter 2023,WIN,2023,B,March,F,68,1,96,48,79,46,35
-Winter 2023,WIN,2023,B,June,M,70,2,58,79,56,79,19
-Winter 2023,WIN,2023,B,January,M,70,3,60,79,58,79,27
-Winter 2023,WIN,2023,B,May,M,74,1,69,71,44,58,33
-Winter 2023,WIN,2023,B,May,F,67,1,38,85,58,73,50
-Winter 2023,WIN,2023,B,August,F,68,1,56,83,60,73,29
-Winter 2023,WIN,2023,B,January,F,69,1,96,81,60,56,31
-Winter 2023,WIN,2023,B,March,M,69,1.614,58,69,67,83,25
-Winter 2023,WIN,2023,B,April,M,70,2,52,60,40,52,44
-Winter 2023,WIN,2023,B,October,M,74,2,63,75,58,90,50
-Winter 2023,WIN,2023,B,June,F,70,3,73,92,88,75,10
-Winter 2023,WIN,2023,B,March,F,62,1,38,77,90,50,40
-Winter 2023,WIN,2023,B,June,M,,1,42,73,67,35,69
-Winter 2023,WIN,2023,B,January,F,64,1,40,77,38,71,27
-Winter 2023,WIN,2023,B,January,M,73,1,53,75,48,65,50
-Winter 2023,WIN,2023,B,May,F,63,1,48,79,71,54,56
-Winter 2023,WIN,2023,B,February,F,68,1,40,81,58,81,42
-Winter 2023,WIN,2023,B,May,M,72,1,60,73,58,83,17
-Winter 2023,WIN,2023,B,April,F,69,1,67,75,58,81,52
-Winter 2023,WIN,2023,B,November,M,70,2,69,92,75,65,6
-Winter 2023,WIN,2023,B,February,F,69,1,67,63,85,73,58
-Winter 2023,WIN,2023,B,November,F,64,1,75,73,88,85,56
-Winter 2023,WIN,2023,B,March,M,72,2,35,71,56,52,46
-Winter 2023,WIN,2023,B,December,F,66,1,79,71,83,44,48
-Winter 2023,WIN,2023,B,August,F,61,2,42,83,69,79,25
-Winter 2023,WIN,2023,B,November,F,66,1,71,94,75,56,48
-Winter 2023,WIN,2023,B,May,M,70,1,44,63,67,50,48
-Winter 2023,WIN,2023,B,January,F,60,1,71,69,65,77,50
-Winter 2023,WIN,2023,B,June,M,71,1,69,75,81,48,69
-Winter 2023,WIN,2023,B,October,F,71,1,15,81,58,54,65
-Winter 2023,WIN,2023,B,August,F,65,1,81,58,67,50,65
-Winter 2023,WIN,2023,B,October,F,62,1,29,67,67,58,48
-Winter 2023,WIN,2023,B,March,M,70,1.613,69,63,88,69,35
-Winter 2023,WIN,2023,B,December,M,71,1,15,25,73,71,63
-Winter 2023,WIN,2023,C,April,F,63,1,56,73,71,60,56
-Winter 2023,WIN,2023,C,February,F,70,1,88,75,83,42,48
-Winter 2023,WIN,2023,C,October,F,64,1,17,63,83,8,81
-Winter 2023,WIN,2023,C,June,F,63,1,52,52,75,63,75
-Winter 2023,WIN,2023,C,June,F,81,1,73,90,96,42,71
-Winter 2023,WIN,2023,C,August,F,65,1,94,85,56,73,25
-Winter 2023,WIN,2023,C,May,F,71,2,69,58,65,56,33
-Winter 2023,WIN,2023,C,May,M,,1,44,69,25,69,54
-Winter 2023,WIN,2023,C,June,F,62,1,79,79,65,83,63
-Winter 2023,WIN,2023,C,February,F,64,1,60,71,56,50,75
-Winter 2023,WIN,2023,C,October,M,72,1,79,79,83,46,73
-Winter 2023,WIN,2023,C,March,M,75,1,79,71,98,75,21
-Winter 2023,WIN,2023,C,December,F,69,1,42,56,71,56,71
-Winter 2023,WIN,2023,C,October,F,75,1,35,60,65,77,75
-Winter 2023,WIN,2023,C,April,F,65,2,23,75,96,92,42
-Winter 2023,WIN,2023,C,January,M,74,2,63,54,67,33,44
-Winter 2023,WIN,2023,C,November,F,63,1,40,81,96,38,74
-Winter 2023,WIN,2023,C,September,M,73,1,42,75,67,65,77
-Winter 2023,WIN,2023,C,February,F,65,2,94,94,85,81,54
-Winter 2023,WIN,2023,C,September,F,64,1,52,63,77,69,23
-Winter 2023,WIN,2023,C,January,M,70,1,79,79,83,54,35
-Winter 2023,WIN,2023,C,February,F,65,1,50,75,83,77,63
-Winter 2023,WIN,2023,C,June,F,66,2,58,85,71,67,52
-Winter 2023,WIN,2023,C,February,M,74,1,29,92,94,58,48
-Winter 2023,WIN,2023,C,July,M,69,2,63,71,85,54,46
-Winter 2023,WIN,2023,C,October,F,67,1,15,73,81,52,50
-Winter 2023,WIN,2023,C,November,M,74,2,44,73,88,79,52
-Winter 2023,WIN,2023,C,September,F,71,2,92,81,50,52,56
-Winter 2023,WIN,2023,C,April,F,62,2,75,98,73,63,69
-Winter 2023,WIN,2023,C,February,F,61,1,81,92,71,77,63
-Winter 2023,WIN,2023,C,May,F,72,1,33,85,67,44,31
-Winter 2023,WIN,2023,C,June,M,72,2,54,75,79,58,60
-Winter 2023,WIN,2023,C,March,F,66,1,52,67,77,71,46
-Winter 2023,WIN,2023,C,May,F,63,1,35,63,92,58,92
-Winter 2023,WIN,2023,C,March,F,71,1,77,90,38,54,54
-Winter 2023,WIN,2023,C,June,F,63,1,65,79,71,75,60
-Winter 2023,WIN,2023,C,September,F,67,2,54,81,79,65,56
-Winter 2023,WIN,2023,C,June,F,65,2,83,92,81,52,38
-Spring 2024,SPR,2023,C,June,F,58,2,92,90,73,92,52
-Spring 2024,SPR,2023,C,June,M,74,2,77,77,94,60,31
-Spring 2024,SPR,2023,C,March,M,70,2,75,48,67,56,75
-Spring 2024,SPR,2023,C,September,M,72,2,35,87.5,94,62.5,69
-Spring 2024,SPR,2023,C,July,F,62,1,58,79,90,52,44
-Spring 2024,SPR,2023,C,April,F,72,2,85,90,56,87.5,31
-Spring 2024,SPR,2023,C,July,M,71,2,38,69,94,40,65
-Spring 2024,SPR,2023,C,August,F,65,1,56,85,94,29,38
-Spring 2024,SPR,2023,C,August,F,,3,,23,37.5,60,44
-Spring 2024,SPR,2023,C,October,F,66,1,46,79,58,83,35
-Spring 2024,SPR,2023,C,August,M,66,1,77,37.5,52,75,29
-Spring 2024,SPR,2023,C,January,M,69,2,54,94,73,69,46
-Spring 2024,SPR,2023,C,April,F,66,1,65,62.5,67,54,50
-Spring 2024,SPR,2023,C,March,F,65,1,60,65,73,60,54
-Spring 2024,SPR,2023,C,August,F,66,4,58,73,42,73,62.5
-Spring 2024,SPR,2023,C,June,F,64,1,96,83,65,87.5,17
-Spring 2024,SPR,2023,C,May,F,62,1,69,81,87.5,67,54
-Spring 2024,SPR,2023,C,March,F,68,1,42,85,79,56,73
-Spring 2024,SPR,2023,C,October,F,68,1,62.5,81,62.5,85,19
-Spring 2024,SPR,2023,C,August,M,73,1,67,77,90,79,4
-Spring 2024,SPR,2023,C,December,M,71,2.5,60,80,98,29,4
-Spring 2024,SPR,2023,C,August,F,60,1,60,81,61,71,60
-Spring 2024,SPR,2023,C,September,F,64,2,17,79,79,54,67
-Spring 2024,SPR,2023,C,May,F,68,1,79,58,54,69,33
-Spring 2024,SPR,2023,C,May,M,68,1,54,67,87.5,54,58
-Spring 2024,SPR,2023,C,February,M,67,3,40,67,67,40,79
-Spring 2024,SPR,2023,C,October,F,62,1,50,77,79,56,60
-Spring 2024,SPR,2023,C,November,M,80,1,33,54,71,63,38
-Spring 2024,SPR,2023,C,December,M,70,1,71,87.5,90,40,42
-Spring 2024,SPR,2023,C,December,M,72,2,60,87.5,75,73,40
-Spring 2024,SPR,2023,C,July,M,75,1,96,37.5,77,56,44
-Spring 2024,SPR,2023,A,December,M,71.5,2,54,90,75,58,40
-Spring 2024,SPR,2023,A,September,F,60,1,81,92,58,71,58
-Spring 2024,SPR,2023,A,February,M,72,3,62.5,58,81,62.5,35
-Spring 2024,SPR,2023,A,December,M,74.5,2,62.5,54,98,52,65
-Spring 2024,SPR,2023,A,July,M,66,1,77,65,79,50,62.5
-Spring 2024,SPR,2023,A,July,F,64,1,79,65,73,90,60
-Spring 2024,SPR,2023,A,July,M,75,1,44,83,87,46,62
-Spring 2024,SPR,2023,A,February,M,71,2,81,83,94,75,60
-Spring 2024,SPR,2023,A,April,M,75,2,50,73,71,58,52
-Spring 2024,SPR,2023,A,April,F,63,1,10,62.5,90,52,35
-Spring 2024,SPR,2023,A,July,M,70,2,52,73,56,54,65
-Spring 2024,SPR,2023,A,October,M,73,1,25,73,44,83,19
-Spring 2024,SPR,2023,A,February,M,68,1,21,62.5,23,71,77
-Spring 2024,SPR,2023,A,November,M,69,2,65,54,58,75,17
-Spring 2024,SPR,2023,A,March,M,68,1,65,77,52,62.5,87.5
-Spring 2024,SPR,2023,A,January,M,69,2,40,65,65,52,58
-Spring 2024,SPR,2023,A,January,F,67,1,46,77,96,83,37.5
-Spring 2024,SPR,2023,A,April,M,75,1,27,71,54,69,33
-Spring 2024,SPR,2023,A,February,M,65,3,29,87.5,100,67,60
-Spring 2024,SPR,2023,A,June,F,68,1,58,71,69,56,58
-Spring 2024,SPR,2023,A,February,M,61.2,1,60,92,100,65,56
-Spring 2024,SPR,2023,A,January,M,70,0,81,46,85,83,35
-Spring 2024,SPR,2023,A,December,F,67,1,71,73,73,58,56
-Spring 2024,SPR,2023,A,October,M,70,2,27,75,67,77,15
-Winter 2023,WIN,2023,D,December,M,71,2,52,80,98,29,4
-Winter 2024,WIN,2024,D,October,M,72,2,19,54,50,83,21
-Winter 2024,WIN,2024,D,July,F,71,1,29,79,65,65,52
-Winter 2024,WIN,2024,D,April,F,65,1,31,65,90,77,50
-Winter 2024,WIN,2024,D,July,F,64,1,21,85,81,90,60
-Winter 2024,WIN,2024,D,December,M,70,2,75,73,46,40,54
-Winter 2024,WIN,2024,D,April,M,73,1,65,62.5,50,81,33
-Winter 2024,WIN,2024,D,October,M,73,1,69,35,96,58,17
-Winter 2024,WIN,2024,D,October,M,73,2,52,85,62,71,25
-Winter 2024,WIN,2024,D,August,F,68,1,27,90,75,42,54
-Winter 2024,WIN,2024,D,March,M,72,1,73,65,79,54,46
-Winter 2024,WIN,2024,D,January,M,76,1,33,71,94,50,73
-Winter 2024,WIN,2024,D,February,F,65,1,46,77,85,46,56
-Winter 2024,WIN,2024,D,July,M,71,1,25,71,71,50,60
-Winter 2024,WIN,2024,D,December,M,64,2,59,41,72,56,75
-Winter 2024,WIN,2024,D,February,M,74,1,90,60,75,79,21
-Winter 2024,WIN,2024,D,March,M,69,1,40,73,48,60,37.5
-Winter 2024,WIN,2024,D,December,M,70,1,19,81,33,85,81
-Winter 2024,WIN,2024,D,January,M,71,1,17,87.5,37.5,62.5,81
-Winter 2024,WIN,2024,D,September,M,72,2,85,75,69,56,12
-Winter 2024,WIN,2024,D,August,M,71,1,37.5,69,96,44,65
-Winter 2024,WIN,2024,D,March,F,62,3,31,73,40,35,62.5
-Winter 2024,WIN,2024,D,September,F,56.75,1,50,94,79,71,56
-Winter 2024,WIN,2024,D,April,M,70,2,44,73,77,40,67
-Winter 2024,WIN,2024,D,April,M,67,1,40,79,50,71,35
-Winter 2024,WIN,2024,D,June,M,70,1,67,56,83,52,37.5
-Winter 2024,WIN,2024,D,May,F,61,1,90,96,81,65,19
-Winter 2024,WIN,2024,D,December,M,74,1,21,60,87.5,27,75
-Winter 2024,WIN,2024,D,February,F,68,2,29,67,83,81,17
-Winter 2024,WIN,2024,D,February,M,72,3,67,56,71,58,54
-Winter 2024,WIN,2024,D,January,F,64,1,83,75,62.5,58,31
-Winter 2024,WIN,2024,D,February,F,64,1,40,44,69,42,65
-Winter 2024,WIN,2024,D,May,F,66,4,17,77,79,96,35
-Winter 2024,WIN,2024,D,March,M,74,2,98,79,54,90,25
-Winter 2024,WIN,2024,D,March,M,69,1,21,79,77,58,19
-Winter 2024,WIN,2024,D,May,M,74,2,81,79,67,69,15
-Winter 2024,WIN,2024,C,April,F,65,3,42,54,75,62.5,48
-Winter 2024,WIN,2024,C,November,F,69,1,19,87.5,65,50,46
-Winter 2024,WIN,2024,C,September,F,67,2,46,60,56,69,48
-Winter 2024,WIN,2024,C,March,M,74,1,44,81,96,77,48
-Winter 2024,WIN,2024,C,June,F,64,1,42,98,83,65,71
-Winter 2024,WIN,2024,C,July,F,68,1,54,50,35,73,35
-Winter 2024,WIN,2024,C,July,F,66,1,52,94,60,73,50
-Winter 2024,WIN,2024,C,June,F,70,2,98,85,94,54,48
-Winter 2024,WIN,2024,C,May,M,73,1,37.5,83,85,54,25
-Winter 2024,WIN,2024,C,April,F,66,1,54,71,96,54,62.5
-Winter 2024,WIN,2024,C,March,M,72,2,35,62.5,87.5,52,46
-Winter 2024,WIN,2024,C,October,F,64,1,73,71,75,48,52
-Winter 2024,WIN,2024,C,December,F,66,2,56,69,60,50,46
-Winter 2024,WIN,2024,C,January,F,61,1,62,94,44,69,54
-Winter 2024,WIN,2024,C,May,F,68,1,81,58,58,83,56
-Winter 2024,WIN,2024,C,June,F,70,2,67,69,69,81,44
-Winter 2024,WIN,2024,C,June,M,70,2,52,75,92,73,42
-Winter 2024,WIN,2024,C,November,M,70,1,62.5,69,50,48,62.5
-Winter 2024,WIN,2024,C,September,F,55,2,77,77,73,42,48
-Winter 2024,WIN,2024,C,April,F,62,1,81,77,83,75,29
-Winter 2024,WIN,2024,C,April,F,62,1,62.5,71,81,42,79
-Winter 2024,WIN,2024,C,January,F,51,2,65,75,83,81,31
-Winter 2024,WIN,2024,C,February,M,69,1,21,71,83,56,73
-Winter 2024,WIN,2024,C,September,F,65,1,48,87.5,96,52,65
-Winter 2024,WIN,2024,C,March,F,63,1,90,71,69,71,60
-Winter 2024,WIN,2024,C,January,F,63,1,75,92,92,73,42
-Winter 2024,WIN,2024,C,August,M,67,1,90,81,75,77,6
-Winter 2024,WIN,2024,C,October,M,72,2,19,54,50,83,21
-Winter 2024,WIN,2024,C,January,M,72,2,62.5,60,96,48,33
-Winter 2024,WIN,2024,C,October,F,67,1,83,87.5,60,73,37.5
-Winter 2024,WIN,2024,C,March,F,67,1,58,78,75,50,62.5
-Winter 2024,WIN,2024,C,January,F,63,1,46,85,73,58,54
-Winter 2024,WIN,2024,C,April,M,73,1.5,75,83,58,75,33
-Winter 2024,WIN,2024,C,December,F,67,2,65,81,75,56,52
-Winter 2024,WIN,2024,C,August,M,70,1,48,71,79,54,35
-Winter 2024,WIN,2024,C,May,F,69,1,52,77,75,77,48
-Winter 2024,WIN,2024,C,June,M,71,1,62.5,67,75,62.5,44
-Winter 2024,WIN,2024,C,December,F,68,1,29,67,62.5,58,69
-Winter 2024,WIN,2024,C,September,F,70,1,87.5,77,69,42,54
-Winter 2024,WIN,2024,C,September,M,75,1,87.5,92,65,71,35
-Winter 2024,WIN,2024,C,January,F,63,1,83,81,92,90,15
-Winter 2024,WIN,2024,C,January,F,65,1,81,42,27,56,65
-Spring 2024,SPR,2024,D,September,M,73,0,71,77,79,33,15
-Spring 2024,SPR,2024,D,August,M,70,2,23,81,56,67,33
-Spring 2024,SPR,2024,D,May,M,70,1,25,71,73,27,79
-Spring 2024,SPR,2024,D,February,F,65,1,60,77,90,42,46
-Spring 2024,SPR,2024,D,November,M,70,3,44,65,31,77,35
-Spring 2024,SPR,2024,D,October,M,67,2,90,56,83,62,46
-Spring 2024,SPR,2024,D,September,F,66,1,44,73,52,48,46
-Spring 2024,SPR,2024,D,November,F,65,2,85,94,58,83,33
-Spring 2024,SPR,2024,D,April,M,72,1,71,73,85,48,42
-Spring 2024,SPR,2024,D,August,F,64,1,50,81,79,71,37.5
-Spring 2024,SPR,2024,D,May,M,68,2,46,73,94,92,73
-Spring 2024,SPR,2024,D,June,M,72,2,87.5,71,79,52,4
-Spring 2024,SPR,2024,D,January,F,,5,67,69,85,56,48
-Spring 2024,SPR,2024,D,October,M,73,1,54,58,83,48,73
-Spring 2024,SPR,2024,D,August,M,69,2,65,69,87.5,71,50
-Spring 2024,SPR,2024,D,July ,F,65,1,56,75,52,83,29
-Spring 2024,SPR,2024,D,September,M,74,1,19,56,92,90,35
-Spring 2024,SPR,2024,D,September,F,64,1,40,79,98,33,77
-Spring 2024,SPR,2024,D,April,F,66,2,54,44,90,83,67
-Spring 2024,SPR,2024,D,April,M,79,2,37.5,52,69,35,71
-Spring 2024,SPR,2024,D,November,F,66,1,60,56,46,79,31
-Spring 2024,SPR,2024,D,April,M,70.9,2,56,65,60,75,46
-Spring 2024,SPR,2024,D,September,M,69,1,31,77,73,71,65
-Spring 2024,SPR,2024,D,September,F,69,1,60,73,87.5,67,65
-Spring 2024,SPR,2024,D,February,M,70,2,42,44,98,15,50
-Spring 2024,SPR,2024,D,September,M,76,1,31,79,81,65,65
-Spring 2024,SPR,2024,D,December,F,67,2,71,85,73,60,54
-Spring 2024,SPR,2024,D,January,F,67,1,62.5,62.5,56,81,42
-Spring 2024,SPR,2024,D,December,F,64,2,75,60,65,19,46
-Spring 2024,SPR,2024,D,December,F,64,2,73,73,92,19,54
+"Timestamp","year","semester","birth_month","major","height_in_inches","biosex","age_in_years","most_used_social_media","conscientiousness_percentile","extroversion_percentile","openness_percentile","agreeableness_percentile","neuroticism_percentile","creativity_score","creativity_percentile","major_trunc"
+2026-04-22 14:43:27.371,2026,"spring","April","Psychology",68,"Male",49,"ChatGPT",63,19,69,65,92,77.69,50,"psych"
+2026-04-22 12:00:55.428,2026,"spring","October","Biology",68,"Male",22,"Discord",83,0,58,17,90,76.83,38.98,"biolo"
+2026-04-22 13:20:23.330999,2026,"spring","August","Psychology",66,"Female",23,"Facebook",81,60,65,100,54,78,78,"psych"
+2026-04-22 14:45:17.166,2026,"spring","December","Accounting",78,"Male",23,"Facebook",58,69,75,71,27,90.68,98.06,"accou"
+2026-04-22 14:48:28.799,2026,"spring","June","Geology",55,"Male",23,"Facebook",79,60,83,75,33,38.5,91.5,"geolo"
+2026-04-22 14:48:37.989,2026,"spring","June","Fisheries, Range, and Wildlife",65,"Female",21,"Facebook",88,27,35,46,29,79.87,59.24,"fishe"
+2026-04-22 14:50:19.048,2026,"spring","August","Public Policy and Administration",75,"Male",23,"Facebook",50,40,67,46,65,88.04,94.27,"publi"
+2026-04-22 16:06:05.710999,2029,"spring","December","Psychology",71,"Male",23,"Facebook",50,79,63,69,52,82.11,72.63,"psych"
+2026-04-22 20:39:04.244,2026,"spring","December","Statistics",69,"Male",22,"Facebook",52,33,69,42,56,70.91,10.87,"stati"
+2026-04-22 21:07:44.68,2026,"spring","July","Psychology",68,"Male",20,"Facebook",40,48,71,79,67,83.39,78.93,"psych"
+2026-04-22 21:09:28.46,2026,"spring","November","Psychology",66,"Female",26,"Facebook",58,31,92,88,73,75.05,28,"psych"
+2026-04-22 14:54:59.664,2026,"spring","August","Undecided",66,"Female",19,"Instagram",85,67,56,56,31,72.74,16.72,"undec"
+2026-04-22 11:25:37.714,2026,"spring","August","Computer Engineering",74,"Male",26,"Instagram",65,52,85,90,69,88.04,94.28,"compu"
+2026-04-22 12:28:55.744999,2026,"spring","October","Psychology",64,"Female",21,"Instagram",79,63,75,73,79,83.33,78.65,"psych"
+2026-04-22 13:17:32.279,2026,"spring","January","Psychology",65,"Female",20,"Instagram",58,19,79,90,72,78.58,50.47,"psych"
+2026-04-22 13:20:50.001,2026,"spring","October","Psychology",63,"Female",21,"Instagram",44,71,65,75,58,87.83,93.9,"psych"
+2026-04-22 13:22:00.325,2026,"spring","April","Psychology",69,"Female",18,"Instagram",38,71,83,83,25,74.75,26.29,"psych"
+2026-04-22 13:23:43.608,2026,"spring","April","Psychology",71,"Male",21,"Instagram",40,38,69,83,46,84.27,82.66,"psych"
+2026-04-22 13:24:25.136,2026,"spring","January","Computer Science",66,"Male",28,"Instagram",90,44,54,65,54,77.86,45.99,"compu"
+2026-04-22 13:27:54.182,2026,"spring","November","Psychology",66,"Male",21,"Instagram",71,69,35,69,56,82.4,74.13,"psych"
+2026-04-22 13:31:03.872,2026,"spring","September","Business Analytics",63,"Female",20,"Instagram",73,90,92,83,38,67.42,5.32,"busin"
+2026-04-22 13:32:27.046,2026,"spring","January","Psychology",72,"Male",24,"Instagram",65,56,92,73,54,71.58,92,"psych"
+2026-04-22 13:32:59.545,2026,"spring","November","Geology",79,"Male",22,"Instagram",50,29,69,50,52,88.2,94.53,"geolo"
+2026-04-22 13:33:23.522,2026,"spring","July","Psychology",67,"Female",21,"Instagram",56,35,79,88,69,73.89,21.83,"psych"
+2026-04-22 13:36:43.752,2026,"spring","January","Computer Science",75,"Male",23,"Instagram",42,42,79,75,38,93.65,99.79,"compu"
+2026-04-22 14:02:28.636,2026,"spring","September","Plant Science and Technology",64,"Female",21,"Instagram",94,25,65,90,77,76.27,35.16,"plant"
+2026-04-22 14:23:32.51,2026,"spring","August","Math",64,"Female",36,"Instagram",67,50,88,90,42,89.01,95.98,"math"
+2026-04-22 14:39:37.111,2026,"spring","September","Psychology",71,"Male",21,"Instagram",44,81,75,69,40,87.13,92.28,"psych"
+2026-04-22 14:41:19.546,2026,"spring","August","Psychology",64,"Female",22,"Instagram",85,25,98,85,56,78,87.51,"psych"
+2026-04-22 14:47:08.453,2026,"spring","April","Psychology",69,"Male",20,"Instagram",56,58,79,75,52,70.38,9.3,"psych"
+2026-04-22 14:51:31.253,2026,"spring","May","Psychology",73,"Male",20,"Instagram",69,38,46,65,44,70,45,"psych"
+2026-04-22 14:51:52.432,2026,"spring","May","Undecided",66,"Male",19,"Instagram",63,44,71,67,79,84.6,84.1,"undec"
+2026-04-22 14:53:03.822,2026,"spring","June","Psychology",63,"Female",22,"Instagram",50,71,63,83,46,79.92,59.4,"psych"
+2026-04-22 14:53:17.946,2026,"spring","March","Fisheries, Range, and Wildlife",68,"Female",24,"Instagram",52,48,67,75,44,77.33,42.36,"fishe"
+2026-04-22 14:57:10.212,2026,"spring","June","Business Analytics",62,"Female",32,"Instagram",67,67,71,92,52,52,56,"busin"
+2026-04-22 15:10:46.674,2026,"spring","October","Psychology",62,"Female",20,"Instagram",23,25,60,67,88,79.04,53.83,"psych"
+2026-04-22 15:45:50.212,2026,"spring","October","Psychology",64,"Female",19,"Instagram",48,44,81,69,48,60.17,1.62,"psych"
+2026-04-22 17:06:24.282001,2026,"spring","December","Elementary Education",63,"Female",23,"Instagram",58,71,63,69,60,77.84,78,"eleme"
+2026-04-22 17:14:49.04,2026,"spring","January","Psychology",62,"Female",23,"Instagram",94,67,94,88,21,70.37,70.37,"psych"
+2026-04-22 17:49:09.97,2026,"spring","August","Psychology",67,"Female",20,"Instagram",60,73,73,81,50,77.94,46.47,"psych"
+2026-04-22 17:57:58.855,2026,"spring","October","Animal Science",62,"Female",23,"Instagram",69,81,52,83,71,66.09,4.15,"anima"
+2026-04-22 21:56:37.469,2026,"spring","August","Computer Engineering",67,"Male",23,"Instagram",92,50,90,100,6,81.36,68.51,"compu"
+2026-04-22 22:40:35.382,2026,"spring","November","Fisheries, Range, and Wildlife",71,"Female",21,"Instagram",60,71,85,81,50,78.08,47.28,"fishe"
+2026-04-22 14:38:24.258,2026,"spring","April","Fisheries, Range, and Wildlife",63,"Female",21,"Instagram",60,56,79,75,52,86.79,91.47,"fishe"
+2026-04-22 14:52:18.205,2026,"spring","May","Business Analytics",72,"Male",20,"None",46,71,79,79,65,87.53,93.28,"busin"
+2026-04-22 14:49:16.734,2026,"spring","June","Psychology",77,"Male",25,"None",73,52,54,75,54,72.55,16.01,"psych"
+2026-04-22 14:16:57.888,2026,"spring","June","Accounting",74,"Male",17,"None",38,31,65,52,69,85.4,87.37,"accou"
+2026-04-22 14:44:43.573,2026,"spring","June","Accounting",74,"Male",17,"None",27,23,60,58,73,85.4,87.37,"accou"
+2026-04-22 14:26:43.087,2026,"spring","November","Psychology",65,"Female",22,"Pinterest",48,54,75,73,46,83.59,79.77,"psych"
+2026-04-22 20:15:52.696,2026,"spring","January","Psychology",60,"Female",22,"TikTok",46,27,50,60,69,75.66,78,"psych"
+2026-04-22 13:21:37.069,2026,"spring","May","Fisheries, Range, and Wildlife",66,"Female",21,"TikTok",75,46,50,77,52,81.96,71.9,"fishe"
+2026-04-22 14:59:42.544,2026,"spring","March","Psychology",64,"Female",21,"TikTok",64,48,79,75,67,73.47,19.76,"psych"
+2026-04-22 16:25:13.047999,2026,"spring","June","Psychology",64,"Female",22,"TikTok",38,17,71,67,94,79.7,58.29,"psych"
+2026-04-22 17:04:35.834,2026,"spring","November","Geology",75,"Male",20,"TikTok",75,69,98,50,79,85,85.9,"geolo"
+2026-04-22 16:52:21.391,2026,"spring","June","Psychology",60,"Female",19,"TikTok",50,48,73,92,81,76.67,37.87,"psych"
+2026-04-22 22:52:38.051,2026,"spring","October","Business Analytics",67,"Male",26,"WhatsApp",87,67,77,47,50,89,90,"busin"
+2026-04-22 13:27:21.685,2026,"spring","March","Data Science",62,"Female",22,"WhatsApp",73,75,100,81,35,88.79,95.59,"datas"
+2026-04-22 23:05:48.494,2026,"spring","April","Finance",71,"Male",23,"WhatsApp",56,67,67,71,31,69,69,"finan"
+2026-04-22 14:46:53.908,2026,"spring","July","Fisheries, Range, and Wildlife",65,"Female",18,"YouTube",65,40,65,73,52,83.51,79.46,"fishe"
+2026-04-22 11:55:41.052,2026,"spring","April","Statistics",64,"Male",21,"YouTube",54,88,79,73,42,80.57,63.53,"stati"
+2026-04-22 12:00:41.614,2026,"spring","August","Physics",74,"Male",18,"YouTube",63,67,85,75,27,93.27,99.71,"physi"
+2026-04-22 12:57:56.047,2026,"spring","January","Psychology",66,"Female",19,"YouTube",60,56,92,88,81,90.92,98.3,"psych"
+2026-04-22 13:20:01.712,2026,"spring","November","Geology",75,"Male",23,"YouTube",79,63,92,81,42,79.13,54.4,"geolo"
+2026-04-22 13:23:48.956,2026,"spring","February","Plant Science and Technology",72,"Male",23,"YouTube",48,63,67,69,27,82.35,73.92,"plant"
+2026-04-22 13:24:35.846,2026,"spring","September","Psychology",65,"Male",21,"YouTube",71,31,73,65,44,84.43,83.32,"psych"
+2026-04-22 13:25:10.118999,2026,"spring","March","Psychology",67,"Male",24,"YouTube",52,46,65,69,42,81.81,71.08,"psych"
+2026-04-22 13:26:28.327,2026,"spring","September","Fisheries, Range, and Wildlife",65,"Female",18,"YouTube",52,6,73,81,52,75.68,31.53,"fishe"
+2026-04-22 13:29:00.369,2026,"spring","August","Interdisciplinary Studies",71,"Male",24,"YouTube",44,15,69,50,75,77.26,41.87,"inter"
+2026-04-22 13:30:38.864,2026,"spring","September","Psychology",65,"Male",21,"YouTube",71,31,73,65,44,84.43,83.32,"psych"
+2026-04-22 13:32:56.289,2026,"spring","December","Computer Science",66,"Male",23,"YouTube",63,56,71,60,40,88.66,95.38,"compu"
+2026-04-22 13:32:56.363,2026,"spring","September","Biology",75,"Male",22,"YouTube",71,54,73,85,52,80.25,61.49,"biolo"
+2026-04-22 13:33:49.975,2026,"spring","March","Public Policy and Administration",71,"Male",23,"YouTube",60,50,69,71,21,53.28,50,"publi"
+2026-04-22 13:48:47.768,2026,"spring","April","Psychology",64,"Female",19,"YouTube",56,40,62,73,27,77.42,42.97,"psych"
+2026-04-22 14:46:58.77,2026,"spring","May","Psychology",64,"Female",20,"YouTube",52,23,84,81,54,73.79,21.28,"psych"
+2026-04-22 14:47:37.77,2026,"spring","December","Economics",64,"Female",20,"YouTube",63,83,69,44,13,88.65,95.37,"econo"
+2026-04-22 14:53:54.054,2026,"spring","August","Psychology",70,"Male",21,"YouTube",77,85,85,54,38,88.64,95.35,"psych"
+2026-04-22 14:54:04.847,2026,"spring","September","Geology",69,"Male",22,"YouTube",87,33,96,75,45,82.09,72.57,"geolo"
+2026-04-22 14:58:29.86,2026,"spring","April","Psychology",71,"Male",21,"YouTube",50,75,85,50,56,84,81.49,"psych"
+2026-04-22 15:59:24.145,2026,"spring","August","Psychology",58,"Female",18,"YouTube",58,23,65,71,90,79.01,53.67,"psych"
+2026-04-22 23:14:06.055,2028,"spring","July","Psychology",73,"Male",22,"YouTube",56,100,88,88,25,81.28,68.14,"psych"
+2026-04-23 12:08:12.193,2026,"spring","May","Psychology",67,"Female",21,"Instagram",90,46,46,75,65,84.65,84.31,"psych"
+2026-04-24 14:13:07.153,2026,"spring","April","Business Analytics",76,"Male",25,"Instagram",69,79,77,63,63,86.63,91.02,"busin"
+2026-09-16 10:18:12.228,2026,"fall","April","Business Analytics",76,"Male",25,"Instagram",71,92,69,56,60,85.66,88.25,"busin"
+2026-09-16 10:44:41.932,2026,"fall","November","Psychology",71,"Male",19,"Discord",54,85,83,90,67,84.32,82.89,"psych"
+2026-09-16 11:00:18.921,2026,"fall","August","Accounting",70,"Male",20,"Instagram",71,71,83,71,52,67.43,5.33,"accou"
+2026-09-16 11:05:54.965,2026,"fall","December","Psychology",71,"Male",23,"Facebook",35,75,50,75,54,84.1,81.66,"psych"
+2026-09-16 11:38:59.624,2026,"fall","October","Fisheries, Range, and Wildlife",72,"Male",21,"YouTube",58,54,71,71,52,88.44,95,"fishe"
+2026-09-16 11:53:14.481,2026,"fall","April","Psychology",74,"Male",21,"Instagram",46,73,69,94,52,67.37,5.3,"psych"
+2026-09-16 11:57:05.150001,2026,"fall","July","Business Management",72,"Male",21,"Instagram",54,79,79,71,48,85.57,87.95,"busin"
+2026-09-16 12:06:27.289,2026,"fall","July","Psychology",72,"Male",22,"Instagram",69,73,75,79,29,70.82,10.69,"psych"
+2026-09-16 12:08:57.019,2026,"fall","January","Geology",76,"Male",24,"Discord",38,58,90,73,58,88.03,94.27,"geolo"
+2026-09-16 12:09:00.594999,2026,"fall","June","Plant Science and Technology",68,"Male",22,"Instagram",69,29,71,73,46,69,7.12,"plant"
+2026-09-16 12:11:20.909,2026,"fall","November","Accounting",67,"Male",23,"Instagram",63,92,50,69,40,79.27,55.14,"accou"
+2026-09-16 12:25:21.122,2026,"fall","December","Fisheries, Range, and Wildlife",65,"Female",21,"Facebook",58,52,96,71,71,75.01,28,"fishe"
+2026-09-16 13:06:36.641,2026,"fall","June","Psychology",71,"Male",23,"Instagram",29,73,85,75,48,61.7,2.4,"psych"
+2026-09-16 13:10:08.162001,2026,"fall","July","Business",69,"Male",26,"Instagram",69,44,100,88,50,91.79,99.02,"busin"
+2026-09-16 13:10:22.643,2026,"fall","May","Psychology",62,"Female",22,"Facebook",77,35,83,79,73,73.44,19.61,"psych"
+2026-09-16 13:11:46.102,2026,"fall","September","Fisheries, Range, and Wildlife",68,"Male",23,"Instagram",69,69,60,63,38,76,33,"fishe"
+2026-09-16 13:15:46.581,2026,"fall","November","Computer Science",67,"Male",26,"WhatsApp",73,54,44,46,56,70.11,9.24,"compu"
+2026-09-16 13:16:13.67,2026,"fall","July","Computer Science",72,"Male",20,"Discord",29,29,54,67,60,89.82,97.19,"compu"
+2026-09-16 13:16:33.851,2026,"fall","November","Accounting",70,"Male",22,"ChatGPT/AI",85,42,58,85,29,77.95,46.54,"accou"
+2026-09-16 13:21:44.872,2026,"fall","August","Geology",75,"Male",24,"YouTube",50,48,63,69,48,92.31,99.3,"geolo"
+2026-09-16 13:24:59.675,2026,"fall","August","Fisheries, Range, and Wildlife",68,"Female",19,"Instagram",65,75,73,77,35,79.28,55.27,"fishe"
+2026-09-16 13:26:57.548,2026,"fall","May","Accounting",72,"Male",23,"YouTube",40,58,40,67,77,86.97,91.93,"accou"
+2026-09-16 13:26:57.627,2026,"fall","July","Fisheries, Range, and Wildlife",71,"Female",23,"Instagram",67,50,60,90,46,74.24,48.6,"fishe"
+2026-09-16 13:29:56.101,2026,"fall","July","Data Science",157,"Female",36,"Instagram",60,42,81,81,67,90.18,97.6,"datas"
+2026-09-16 13:30:14.002,2026,"fall","January","Psychology",68,"Male",22,"YouTube",44,85,77,44,65,80.39,65,"psych"
+2026-09-16 13:32:34.460999,2026,"fall","August","Psychology",70,"Female",18,"Instagram",65,25,56,79,38,73.52,19.96,"psych"
+2026-09-16 13:34:36.171,2026,"fall","October","Psychology",64,"Female",18,"Instagram",81,69,92,79,42,87.84,93.92,"psych"
+2026-09-16 13:36:31.859,2026,"fall","April","Fisheries, Range, and Wildlife",61,"Female",19,"YouTube",88,50,92,58,42,76.22,34.79,"fishe"
+2026-09-16 13:38:17.613,2026,"fall","August","Accounting",69,"Female",21,"Instagram",56,52,67,60,69,74.72,26.14,"accou"
+2026-09-16 14:11:49.938,2026,"fall","January","Psychology",64,"Female",18,"Instagram",85,17,44,79,33,83.28,78.42,"psych"
+2026-09-16 14:16:58.928,2026,"fall","April","Data Science",67,"Female",20,"TikTok",35,44,44,83,83,81.5,66.81,"datas"
+2026-09-16 14:17:26.496,2026,"fall","May","Accounting",72,"Male",23,"YouTube",40,58,40,67,77,92.1,99.18,"accou"
+2026-09-16 14:25:20.658,2026,"fall","April","Psychology",66,"Female",18,"YouTube",58,33,92,77,69,81.7,70.46,"psych"
+2026-09-16 14:28:34.395,2026,"fall","October","Data Science",71,"Male",24,"Discord",65,44,71,63,44,88.13,94.44,"datas"
+2026-09-16 14:34:51.507,2026,"fall","June","Fisheries, Range, and Wildlife",64,"Female",21,"Instagram",81,40,67,81,38,81.39,68.78,"fishe"
+2026-09-16 14:35:01.153,2026,"fall","May","Psychology",63,"Female",18,"YouTube",40,27,98,90,85,85.22,87,"psych"
+2026-09-16 14:37:00.013,2026,"fall","August","Psychology",69,"Male",23,"YouTube",69,79,79,94,67,81.22,67,"psych"
+2026-09-16 14:37:14.389,2026,"fall","February","Statistics",68,"Male",26,"YouTube",71,75,65,88,21,73.91,21.93,"stati"
+2026-09-16 14:37:53.829,2026,"fall","January","Fisheries, Range, and Wildlife",63,"Female",21,"Instagram",71,29,63,69,46,76.95,39.85,"fishe"
+2026-09-16 14:37:55.019,2026,"fall","August","Elementary Education",64,"Female",18,"None",54,15,58,69,67,75.82,32.35,"eleme"
+2026-09-16 14:42:30.353,2026,"fall","October","Psychology",67,"Male",23,"Instagram",79,60,63,69,65,74.08,22.8,"psych"
+2026-09-16 14:49:27.818,2026,"fall","February","Accounting",72,"Male",20,"YouTube",75,38,33,56,56,66.17,4.21,"accou"
+2026-09-16 14:53:54.277999,2026,"fall","May","Accounting",63,"Female",19,"Instagram",79,25,60,71,33,81.34,68.43,"accou"
+2026-09-16 14:55:51.391,2026,"fall","May","Fisheries, Range, and Wildlife",66,"Female",19,"None",88,8,79,67,56,83.77,80.45,"fishe"
+2026-09-16 15:13:03.335999,2026,"fall","August","Psychology",70,"Male",20,"Instagram",56,40,67,73,65,63.11,2.59,"psych"
+2026-09-16 15:16:15.282,2026,"fall","January","Fisheries, Range, and Wildlife",67,"Male",20,"Instagram",79,52,65,90,25,82,72,"fishe"
+2026-09-16 15:17:37.995,2026,"fall","July","Accounting",65,"Female",21,"YouTube",56,42,40,81,60,80.74,64.66,"accou"
+2026-09-16 15:17:54.985,2026,"fall","September","Psychology",72,"Male",21,"Instagram",42,50,67,71,83,70.68,70.68,"psych"
+2026-09-16 15:17:59.751,2026,"fall","October","Fisheries, Range, and Wildlife",71,"Male",20,"Instagram",63,35,52,48,75,79.19,54.77,"fishe"
+2026-09-16 15:22:24.233,2026,"fall","January","Psychology",63,"Female",20,"Instagram",81,42,67,83,19,75.52,30.49,"psych"
+2026-09-16 15:30:40.613,2026,"fall","July","Data Science",57,"Male",26,"YouTube",63,27,73,83,71,90.24,97.63,"datas"
+2026-09-16 15:31:04.301,2026,"fall","April","Psychology",61,"Female",20,"Pinterest",50,56,79,65,54,73.24,18.7,"psych"
+2026-09-16 15:32:31.612,2026,"fall","March","Fisheries, Range, and Wildlife",70,"Male",22,"YouTube",29,40,71,69,58,78.5,49.87,"fishe"
+2026-09-16 15:34:05.271999,2026,"fall","July","Business Analytics",68,"Female",23,"TikTok",71,81,60,94,35,78,67.81,"busin"
+2026-09-16 15:36:21.202,2026,"fall","November","Psychology",73,"Male",20,"Instagram",50,83,92,56,58,88.59,95.24,"psych"
+2026-09-16 15:39:29.029,2026,"fall","December","Math",65,"Female",19,"Instagram",75,44,60,46,67,83.13,77.58,"math"
+2026-09-16 15:39:32.656,2026,"fall","March","Business Analytics",66,"Female",24,"Instagram",63,52,94,85,65,59.35,1.47,"busin"
+2026-09-16 15:39:41.448,2026,"fall","October","Psychology",60,"Female",22,"Instagram",81,63,67,75,40,81.61,80,"psych"
+2026-09-16 15:40:32.942,2026,"fall","August","Fisheries, Range, and Wildlife",65,"Male",23,"Facebook",63,15,77,77,58,69.51,NA,"fishe"
+2026-09-16 15:46:21.83,2026,"fall","February","Psychology",73,"Male",24,"YouTube",71,63,23,33,48,83.56,79.63,"psych"
+2026-09-16 15:46:42.605,2026,"fall","April","Psychology",71,"Male",21,"Instagram",50,88,58,54,44,NA,NA,"psych"
+2026-09-16 15:47:49.981,2026,"fall","June","Business Analytics",71,"Male",22,"Instagram",52,44,69,71,29,79.63,57.84,"busin"
+2026-09-16 16:04:08.438,2026,"fall","September","Fisheries, Range, and Wildlife",69,"Male",21,"YouTube",77,38,58,67,73,87.96,94.14,"fishe"
+2026-09-16 16:07:07.297999,2028,"fall","October","Fisheries, Range, and Wildlife",69,"Male",21,"Instagram",85,80,75,85,30,75,75,"fishe"
+2026-09-16 16:29:19.429,2026,"fall","October","Fisheries, Range, and Wildlife",62,"Female",19,"YouTube",33,19,92,69,40,83.4,78.98,"fishe"
+2026-09-16 17:04:42.302,2026,"fall","January","Fisheries, Range, and Wildlife",72,"Male",24,"Instagram",48,44,73,71,54,70.32,9.62,"fishe"
+2026-09-16 17:05:13.093,2026,"fall","January","Fisheries, Range, and Wildlife",66,"Female",19,"Other",75,13,75,77,77,90.95,98.32,"fishe"
+2026-09-16 17:38:59.287,2026,"fall","June","Finance",68,"Male",27,"Instagram",56,83,83,88,38,81.36,68.53,"finan"
+2026-09-16 17:41:53.893,2026,"fall","May","Psychology",68,"Male",21,"Other",58,67,92,69,67,74.39,24.44,"psych"
+2026-09-16 17:53:43.519001,2026,"fall","May","Psychology",66,"Female",23,"Instagram",40,58,40,60,74,81.61,70.01,"psych"
+2026-09-16 18:09:45.668,2030,"fall","January","Psychology",67,"Female",18,"YouTube",63,42,65,69,48,68.31,6.24,"psych"
+2026-09-16 18:21:11.866,2026,"fall","April","Environmental Geoscience",66,"Female",21,"Instagram",58,65,88,88,31,71.69,13.15,"envir"
+2026-09-16 18:48:41.325,2026,"fall","October","Chemistry",72,"Male",20,"YouTube",73,44,56,35,54,90.57,97.98,"chemi"
+2026-09-16 19:08:58.672,2026,"fall","May","Undecided",66,"Female",18,"Instagram",48,77,77,60,77,82.29,73.59,"undec"
+2026-09-16 19:16:20.296,2026,"fall","January","Psychology",63,"Female",21,"Pinterest",90,33,83,85,50,73.38,19.27,"psych"
+2026-09-16 19:45:02.850999,2026,"fall","August","Sociology",74,"Male",20,"Instagram",40,42,63,83,60,50,30,"socio"
+2026-09-16 20:13:59.338,2026,"fall","March","Finance",73,"Male",21,"TikTok",63,60,71,81,44,67.38,5.3,"finan"
+2026-09-16 21:15:48.834,2026,"fall","March","Business Analytics",70,"Male",25,"Facebook",58,63,83,73,48,73.67,20.78,"busin"
+2026-09-16 21:49:41.960999,2026,"fall","February","Psychology",62,"Female",20,"Instagram",31,21,92,75,92,80.23,61.39,"psych"
+2026-09-16 23:47:06.842,2026,"fall","May","Psychology",71,"Male",21,"Instagram",67,83,100,75,46,80.77,64.84,"psych"
+2026-09-17 09:51:51.777,2026,"fall","August","Psychology",70,"Male",20,"Facebook",38,69,48,48,65,NA,NA,"psych"
+2026-09-17 10:01:52.758999,2028,"fall","March","Psychology",67,"Female",20,"Instagram",81,69,77,79,71,80.2,78,"psych"
+2026-09-17 10:56:13.598,2026,"fall","April","Psychology",69,"Female",17,"Discord",50,63,81,81,83,83.09,77.39,"psych"
+2026-09-17 14:30:24.248,2026,"fall","May","Psychology",72,"Male",21,"YouTube",44,50,69,65,40,78.97,53.46,"psych"
+2026-09-18 08:21:37.698999,2026,"fall","October","Business Analytics",61,"Female",21,"WhatsApp",71,81,75,79,23,78.12,47.54,"busin"
+2026-09-18 11:17:03.385,2026,"fall","June","Psychology",73,"Male",21,"Instagram",35,69,83,52,81,71.3,12.03,"psych"
+2026-09-18 11:50:40.242,2026,"fall","January","Statistics",70,"Male",20,"YouTube",69,23,63,75,21,79.1,54.23,"stati"
+2026-09-18 12:34:50.652,2029,"fall","February","Psychology",66,"Female",19,"Instagram",42,29,50,75,67,81.22,67.76,"psych"
+2026-09-18 14:01:55.691,2026,"fall","July","Geology",70,"Male",23,"Instagram",69,40,38,65,27,69.58,8.06,"geolo"
+2026-09-19 14:38:27.521,2026,"fall","August","Psychology",59,"Female",18,"Other",54,13,54,69,71,78,7482,"psych"
+2026-09-21 10:39:24.538,2026,"fall","January","Fisheries, Range, and Wildlife",64,"Female",20,"Facebook",52,83,83,79,48,74.74,26.22,"fishe"
+2026-09-21 12:47:04.015,2026,"fall","December","Math",64,"Female",22,"Instagram",83,35,83,77,48,90.06,97.47,"math"
+2026-09-21 15:00:28.783,2026,"fall","March","Psychology",75,"Male",21,"Instagram",60,50,75,92,33,66.62,4.56,"psych"
+2026-09-22 16:56:22.096,2026,"fall","July","Elementary Education",62,"Female",19,"None",90,50,65,83,46,80.45,62.83,"eleme"
+2026-09-23 10:44:03.132,2026,"fall","June","Business Analytics",65,"Female",25,"Instagram",67,71,69,65,46,56.09,91,"busin"
